@@ -2,5 +2,5 @@
 package dominio;
 
 public class Director {
-    private Facultad facultad;
+    private Facultad facultad;    
 }

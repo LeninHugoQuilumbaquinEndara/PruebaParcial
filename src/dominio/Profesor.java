@@ -7,5 +7,5 @@ public class Profesor {
     String nombre;
     String edad;
     private ArrayList<Materia> materia = new ArrayList<>();
-
+    
 }
